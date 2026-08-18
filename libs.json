@@ -10,6 +10,11 @@
     "url": "https://raw.githubusercontent.com/sky2296709/Librarys/main/armv7/libcrypto.so.1.1"
   },
   {
+    "name": "libgd.so.3.0.11",
+    "arch": "armv7",
+    "url": "https://raw.githubusercontent.com/sky2296709/Librarys/main/armv7/libgd.so.3.0.11"
+  },
+  {
     "name": "libunbound.so",
     "arch": "armv7",
     "url": "https://raw.githubusercontent.com/sky2296709/Librarys/main/armv7/libunbound.so"
