@@ -8,7 +8,7 @@
     "name": "libbz2.so.1.0.8",
     "arch": "armv7",
     "url": "https://raw.githubusercontent.com/sky2296709/Librarys/main/armv7/libbz2.so.1.0.8"
-  }
+  },
   {
     "name": "libmagic.so",
     "arch": "armv7",
