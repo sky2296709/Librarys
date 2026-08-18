@@ -5,6 +5,11 @@
     "url": "https://raw.githubusercontent.com/sky2296709/Librarys/main/armv7/libtidy.so"
   },
   {
+    "name": "libandroid-support.so",
+    "arch": "armv7",
+    "url": "https://raw.githubusercontent.com/sky2296709/Librarys/main/armv7/libandroid-support.so"
+  },
+  {
     "name": "pdo_pgsql.so",
     "arch": "armv8",
     "url": "https://raw.githubusercontent.com/sky2296709/Librarys/main/armv8/pdo_pgsql.so"
