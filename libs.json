@@ -5,6 +5,11 @@
     "url": "https://raw.githubusercontent.com/sky2296709/Librarys/main/armv7/libtidy.so"
   },
   {
+  "name": "libicuio.so.74.2",
+  "arch": "armv8",
+  "url": "https://raw.githubusercontent.com/sky2296709/Librarys/main/armv8/libicuio.so.74.2"
+  },
+  {
     "name": "libcrypto.so.1.1",
     "arch": "armv7",
     "url": "https://raw.githubusercontent.com/sky2296709/Librarys/main/armv7/libcrypto.so.1.1"
