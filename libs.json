@@ -25,9 +25,9 @@
     "url": "https://raw.githubusercontent.com/sky2296709/Librarys/main/armv7/libssl.so.1.1"
   },
   {
-  "name": "libicuio.so.74.2",
-  "arch": "armv8",
-  "url": "https://raw.githubusercontent.com/sky2296709/Librarys/main/armv8/libicuio.so.74.2"
+    "name": "libicuio.so.74.2",
+    "arch": "armv8",
+    "url": "https://raw.githubusercontent.com/sky2296709/Librarys/main/armv8/libicuio.so.74.2"
   },
   {
     "name": "libcrypto.so.1.1",
@@ -58,5 +58,10 @@
     "name": "libmagic.so",
     "arch": "armv7",
     "url": "https://raw.githubusercontent.com/sky2296709/Librarys/main/armv7/libmagic.so"
+  },
+  {
+    "name": "libxxhash.so.0.8.3",
+    "arch": "armv7",
+    "url": "https://raw.githubusercontent.com/sky2296709/Librarys/main/armv7/libxxhash.so.0.8.3"
   }
 ]
