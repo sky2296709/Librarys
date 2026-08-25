@@ -5,6 +5,11 @@
     "url": "https://raw.githubusercontent.com/sky2296709/Librarys/main/armv7/libtidy.so"
   },
   {
+    "name": "libOpenSLES.so",
+    "arch": "armv7",
+    "url": "https://raw.githubusercontent.com/sky2296709/Librarys/main/armv7/libOpenSLES.so"
+  },
+  {
     "name": "libc++_shared.so",
     "arch": "armv7",
     "url": "https://raw.githubusercontent.com/sky2296709/Librarys/main/armv7/libc++_shared.so"
